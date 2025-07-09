@@ -4,3 +4,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqd1JnWS03U19lQXJkd3pjd1ZLbTl3@84.21.173.60:4
 vless://f1f9bc46-5227-4b6c-ba73-3c040ae7f2f1@84.21.173.60:5?security=none&encryption=none&headerType=none&type=tcp#𝐂𝐚𝐧𝐚𝐝𝐚 🇨🇦 Alihan
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqd1JnWS03U19lQXJkd3pjd1ZLbTl3@45.141.86.183:443#%F0%9D%90%91%F0%9D%90%AE%F0%9D%90%AC%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%9A%20%F0%9F%87%B7%F0%9F%87%BA
 ss://YWVzLTI1Ni1nY206ODIzZTEzNWVkMTAz@137.220.191.40:636?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fdchlbvrbbotc%3Bhost%3Djp7v1.lingjfjkm002.com%3Btls#%C5%9Eirin%20%F0%9F%8E%89
+vless://f1f9bc46-5227-4b6c-ba73-3c040ae7f2f1@84.21.173.60:5?security=none&encryption=none&headerType=none&type=tcp#Alihan%20%F0%9F%87%AB%F0%9F%87%AE
