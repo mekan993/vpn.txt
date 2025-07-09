@@ -1,1 +1,1 @@
-# vpn.txt
+# vpn-links
